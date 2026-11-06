@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+anthropic
+python-dotenv
+pydantic
+python-multipart
+psycopg[binary,pool]
+pgvector
+fastembed
+pypdf
+
